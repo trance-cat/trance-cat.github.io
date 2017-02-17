@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome
 
 You can use the [editor on GitHub](https://github.com/trance-cat/trance-cat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hello World
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Bold** and _Italic_ and `Code` text
+[Link](http://www.trance-cat.com) and ![Image](http://www.trance-cat.com/img/trance-cat-logo.png)
 
 ```markdown
 Syntax highlighted code block
